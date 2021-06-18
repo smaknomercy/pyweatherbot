@@ -9,4 +9,4 @@ To configure this bot:
 
 #### To run it, run the main.py file
 
-## My bot in Telegram @SmakWeatherBot
+### My bot in Telegram @SmakWeatherBot
