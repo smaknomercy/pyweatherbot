@@ -6,6 +6,6 @@ This is a weather bot written entirely in Python using the pyTelegramBotAPI and 
 To configure this bot, enter the bot token (Get it in Telegram @BotFather) and the OWM token (https://openweathermap.org/api) in the config.py file.
 Open the folder with files in CMD and write the command 'pip install -r requirements.txt'
 
-To run it, run the main.py file
+####To run it, run the main.py file
 
 ## My bot in Telegram @SmakWeatherBot
