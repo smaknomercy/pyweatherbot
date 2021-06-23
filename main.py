@@ -61,7 +61,7 @@ def start(message):
 Атм. тиск: {int(w.pressure.get("press") / 1.333)} мм рт. ст.
 Вологість: {w.humidity}%
 Хмарність: {w.clouds}%
-Швидкість вітру: {w.wind().get("speed")}
+Швидкість вітру: {w.wind().get("speed")} м/с
 Додатково: {w.detailed_status}
 """
     )
